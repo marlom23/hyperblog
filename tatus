@@ -1,0 +1,103 @@
+[33mcommit a473980e9207e299c96227c0405318d690bd773a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Martin Lopez <martin.lopezmoguel@gmail.com>
+Date:   Wed Jul 7 16:27:54 2021 -0500
+
+    Este es el primer commit en hub
+
+ bloging.html    | 10 [31m----------[m
+ blogpost.html   | 18 [32m++++++++++++++++++[m
+ css/estilos.css | 18 [32m+++++++++++++++++[m[31m-[m
+ 3 files changed, 35 insertions(+), 11 deletions(-)
+
+[33mcommit 155ef6d1be383fbc6e69645b6b2875bb754d6c0d[m
+Author: Martin Lopez <martin.lopezmoguel@gmail.com>
+Date:   Thu Jul 1 14:55:36 2021 -0500
+
+    Agregamos cursos
+
+ Martin.txt | 6 [32m+++++[m[31m-[m
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+
+[33mcommit 42445cd6bbc60525cb7b9b1e68b2c9f8ae500516[m
+Author: Martin Lopez <martin.lopezmoguel@gmail.com>
+Date:   Thu Jul 1 13:21:54 2021 -0500
+
+    Cambio de vida a aprendisaje
+
+ Martin.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 6782d94c65c81604e23041ff54e46f008e99a185[m
+Author: Martin Lopez <martin.lopezmoguel@gmail.com>
+Date:   Wed Jun 30 15:26:42 2021 -0500
+
+    Cambio de maestria
+
+ Martin.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 1df41382f9323f6efb8a1baa03cdb11ac4563f27[m
+Author: Martin Lopez <martin.lopezmoguel@gmail.com>
+Date:   Wed Jun 30 15:24:44 2021 -0500
+
+    Cambio de vida
+
+ Martin.txt  | 2 [32m+[m[31m-[m
+ estilos.css | 6 [31m------[m
+ 2 files changed, 1 insertion(+), 7 deletions(-)
+
+[33mcommit d34e88d87e0990f55f5409c715b56db30752a833[m
+Author: Martin Lopez <martin.lopezmoguel@gmail.com>
+Date:   Wed Jun 30 15:19:31 2021 -0500
+
+    Arranco mi proyecto real con html y css
+
+ bloging.html    | 10 [32m++++++++++[m
+ css/estilos.css |  6 [32m++++++[m
+ estilos.css     |  6 [32m++++++[m
+ 3 files changed, 22 insertions(+)
+
+[33mcommit 4507c0f924bac6b786147547cd3498c2cf2017c4[m
+Author: Martin Lopez <martin.lopezmoguel@gmail.com>
+Date:   Wed Jun 30 12:34:01 2021 -0500
+
+    Agregamos el Cargo de Jefe de Seguridad
+
+ Martin.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit eb0eb97789d88e3301b4f75b2cbd2476822b827f[m
+Author: Martin Lopez <martin.lopezmoguel@gmail.com>
+Date:   Wed Jun 30 12:11:00 2021 -0500
+
+    Agregamos su Oficio.
+
+ Martin.txt | 4 [32m+++[m[31m-[m
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+[33mcommit 8a7349b1da5c3863210bc08ca343117a03a3cea5[m
+Author: Martin Lopez <martin.lopezmoguel@gmail.com>
+Date:   Wed Jun 30 12:04:50 2021 -0500
+
+    Cambios para hablar de su historia
+
+ Martin.txt | 6 [32m+++++[m[31m-[m
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+
+[33mcommit 02de60f137fb6f8e2671e49fbdbe80abd1fe0e74[m
+Author: Martin Lopez <martin.lopezmoguel@gmail.com>
+Date:   Wed Jun 30 11:51:12 2021 -0500
+
+    Cambios para reflejar la edad correcta
+
+ Martin.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 3a3fe991e46cc7746b7cb7519ca53822b18062a0[m
+Author: Martin Lopez <martin.lopezmoguel@gmail.com>
+Date:   Wed Jun 30 11:39:47 2021 -0500
+
+    Este es el primer commit de este archivo
+
+ Martin.txt | 3 [32m+++[m
+ 1 file changed, 3 insertions(+)
